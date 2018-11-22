@@ -1,0 +1,15 @@
+{
+  "name": "dap101",
+  "version": "1.0.0",
+  "description": "Ethereum Dapp tutorial",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ethereum",
+    "dapp"
+  ],
+  "author": "alexis masseron",
+  "license": "ISC"
+}
